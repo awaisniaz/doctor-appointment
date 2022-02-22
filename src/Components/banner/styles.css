@@ -1,0 +1,8 @@
+.banner{
+    /* background-image: url('../../images/background_image.jpg'); */
+    background-color: aquamarine;
+    height: 70vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center
+}
