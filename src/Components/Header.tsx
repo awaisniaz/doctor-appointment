@@ -36,7 +36,7 @@ export default function Header() {
       </div>
     </div>
     <div className='flex justify-end'>
-      <button className='bg-cyan-400 p-3 rounded text-gray-50 font-bold hover:bg-cyan-500'>Login / Signup</button>
+      <button className='bg-cyan-400 p-2 rounded text-gray-50 font-bold hover:bg-cyan-500'>Login / Signup</button>
     </div>
   </div>
   )
