@@ -1,10 +1,7 @@
 import * as React from 'react';
-
-interface IHeaderProps {
-}
-
-const Header: React.FunctionComponent<IHeaderProps> = (props) => {
-  return ();
+const Header: React.FunctionComponent = ({}) => {
+  return (<div className='container'
+  ></div>);
 };
 
 export default Header;
