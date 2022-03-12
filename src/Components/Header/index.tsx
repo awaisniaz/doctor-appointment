@@ -6,9 +6,9 @@ import { DownOutlined,GlobalOutlined } from '@ant-design/icons'
 
 const Header: React.FunctionComponent = ({ }) => {
   const { Title,Text } = Typography
-  return (<div className='container-header'>
-    <div className='left-section'>
-      <img src={'./images/logo.png'}></img>
+  return (<div className='container-header' key="1">
+    <div className='left-section'  key="1">
+      <img src={'./images/logo.png'}  key="1"></img>
       <div className='menu-option'>
         {
           menudata?.map(item => {

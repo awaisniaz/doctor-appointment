@@ -6,7 +6,7 @@ type dataType = {
   title: string;
   url: "";
   option: optionType[];
-  active?:Boolean
+  active?:boolean
 };
 export const menudata: dataType[] = [
   {
