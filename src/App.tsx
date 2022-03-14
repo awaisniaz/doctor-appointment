@@ -7,6 +7,7 @@ import DiseaseType from './Components/DiseaseType';
 function App() {
   return (
     <>
+      
     <Header></Header>
     <Banner/>
     <LookingFor/>
