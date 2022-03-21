@@ -6,8 +6,7 @@ import LookingFor from './Components/LookingFor';
 import DiseaseType from './Components/DiseaseType';
 function App() {
   return (
-    <>
-      
+    <>   
     <Header></Header>
     <Banner/>
     <LookingFor/>
